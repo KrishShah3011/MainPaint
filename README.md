@@ -1,1 +1,1 @@
-# MainPaint
+# Paint
